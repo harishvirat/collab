@@ -12,3 +12,6 @@ while True:
         print(multiply(a, b))
     else:
         break
+
+def add(a,b):
+    return a+b
